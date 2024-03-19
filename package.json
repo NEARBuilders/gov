@@ -1,9 +1,9 @@
 {
-  "name": "app",
-  "version": "0.0.0",
-  "description": "",
-  "author": "",
-  "license": "MIT",
+  "name": "ndc",
+  "version": "0.0.1",
+  "description": "governance system",
+  "author": "builders",
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "bos-workspace dev",
     "build": "bos-workspace build"
